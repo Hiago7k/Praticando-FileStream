@@ -13,4 +13,9 @@ var utf8 = new UTF8Encoding();
 var text = utf8.GetString(buffer);
 
 Console.WriteLine(text);
+Console.WriteLine(text);
+Console.WriteLine(text);
+
+
+//text.Clone();
 
